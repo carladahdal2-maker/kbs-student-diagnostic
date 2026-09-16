@@ -89,9 +89,9 @@ streamlit run dashboard.py             # لوحة التحكم التفاعلي�
 
 ## التوسيع
 
-- **إضافة موضوع/مفهوم خاطئ:** عدّلي `catalog.yaml` فقط.
-- **ضبط الحساسية:** عدّلي العتبات في `config.py` دون لمس القواعد.
-- **إضافة قاعدة:** أضيفي `@Rule` جديدة في `engine.py`.
+- **إضافة موضوع/مفهوم خاطئ:** تعديل `catalog.yaml` فقط.
+- **ضبط الحساسية:** تعديل العتبات في `config.py` دون لمس القواعد.
+- **إضافة قاعدة:** أضافة `@Rule` جديدة في `engine.py`.
 - **قيم `selected_misconception` المقبولة:** `conceptual_error` | `surface_association` | `concept_confusion` | `careless` | `none`
-- **سياق محدّد للأخطاء:** أضيفي حقل `misconception_detail` (اختياري) لكل سؤال خاطئ
+- **سياق محدّد للأخطاء:** أضافة حقل `misconception_detail` (اختياري) لكل سؤال خاطئ
   ذي مفهوم `conceptual`/`procedural` ليظهر في رسالة التوصية.
