@@ -1,0 +1,96 @@
+{
+    "student_id": "S_EX_001",
+    "quiz_id": "AI_Advanced_Quiz",
+    "questions": [
+        {
+            "question_id": "q1",
+            "topic_id": "deep_learning",
+            "topic_name": "التعلم العميق",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q2",
+            "topic_id": "deep_learning",
+            "topic_name": "التعلم العميق",
+            "selected_option": "B",
+            "correct_option": "B",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q3",
+            "topic_id": "deep_learning",
+            "topic_name": "التعلم العميق",
+            "selected_option": "C",
+            "correct_option": "C",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q4",
+            "topic_id": "computer_vision",
+            "topic_name": "الرؤية الحاسوبية",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q5",
+            "topic_id": "computer_vision",
+            "topic_name": "الرؤية الحاسوبية",
+            "selected_option": "D",
+            "correct_option": "D",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q6",
+            "topic_id": "computer_vision",
+            "topic_name": "الرؤية الحاسوبية",
+            "selected_option": "B",
+            "correct_option": "B",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q7",
+            "topic_id": "nlp",
+            "topic_name": "معالجة اللغات الطبيعية",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q8",
+            "topic_id": "nlp",
+            "topic_name": "معالجة اللغات الطبيعية",
+            "selected_option": "C",
+            "correct_option": "C",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q9",
+            "topic_id": "nlp",
+            "topic_name": "معالجة اللغات الطبيعية",
+            "selected_option": "D",
+            "correct_option": "B",
+            "is_correct": false,
+            "selected_misconception": "careless"
+        },
+        {
+            "question_id": "q10",
+            "topic_id": "reinforcement_learning",
+            "topic_name": "التعلم المعزَّز",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        }
+    ]
+}

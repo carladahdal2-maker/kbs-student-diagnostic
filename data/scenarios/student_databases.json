@@ -1,0 +1,119 @@
+{
+    "student_id": "S_DB_017",
+    "quiz_id": "Database_Systems_Quiz",
+    "questions": [
+        {
+            "question_id": "q1",
+            "topic_id": "normalization",
+            "topic_name": "التطبيع",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q2",
+            "topic_id": "normalization",
+            "topic_name": "التطبيع",
+            "selected_option": "B",
+            "correct_option": "C",
+            "is_correct": false,
+            "selected_misconception": "surface_association",
+            "misconception_detail": "الاعتماد على شكل الجدول بدل تحليل الاعتماديات"
+        },
+        {
+            "question_id": "q3",
+            "topic_id": "normalization",
+            "topic_name": "التطبيع",
+            "selected_option": "D",
+            "correct_option": "A",
+            "is_correct": false,
+            "selected_misconception": "surface_association",
+            "misconception_detail": "الاعتماد على شكل الجدول بدل تحليل الاعتماديات"
+        },
+        {
+            "question_id": "q4",
+            "topic_id": "sql_queries",
+            "topic_name": "استعلامات SQL",
+            "selected_option": "C",
+            "correct_option": "A",
+            "is_correct": false,
+            "selected_misconception": "surface_association",
+            "misconception_detail": "استخدام JOIN بدون فهم نوعه الصحيح"
+        },
+        {
+            "question_id": "q5",
+            "topic_id": "sql_queries",
+            "topic_name": "استعلامات SQL",
+            "selected_option": "B",
+            "correct_option": "D",
+            "is_correct": false,
+            "selected_misconception": "surface_association",
+            "misconception_detail": "استخدام JOIN بدون فهم نوعه الصحيح"
+        },
+        {
+            "question_id": "q6",
+            "topic_id": "sql_queries",
+            "topic_name": "استعلامات SQL",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q7",
+            "topic_id": "transactions",
+            "topic_name": "المعاملات",
+            "selected_option": "B",
+            "correct_option": "B",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q8",
+            "topic_id": "transactions",
+            "topic_name": "المعاملات",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q9",
+            "topic_id": "transactions",
+            "topic_name": "المعاملات",
+            "selected_option": "C",
+            "correct_option": "D",
+            "is_correct": false,
+            "selected_misconception": "conceptual_error",
+            "misconception_detail": "خلط في مفهوم ACID properties"
+        },
+        {
+            "question_id": "q10",
+            "topic_id": "indexing",
+            "topic_name": "الفهرسة",
+            "selected_option": "A",
+            "correct_option": "A",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q11",
+            "topic_id": "indexing",
+            "topic_name": "الفهرسة",
+            "selected_option": "B",
+            "correct_option": "B",
+            "is_correct": true,
+            "selected_misconception": "none"
+        },
+        {
+            "question_id": "q12",
+            "topic_id": "indexing",
+            "topic_name": "الفهرسة",
+            "selected_option": "D",
+            "correct_option": "C",
+            "is_correct": false,
+            "selected_misconception": "careless"
+        }
+    ]
+}

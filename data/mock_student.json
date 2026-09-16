@@ -1,0 +1,102 @@
+{
+  "student_id": "S101",
+  "quiz_id": "General_Quiz_01",
+  "questions": [
+    {
+      "question_id": "q1",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "A",
+      "correct_option": "A",
+      "is_correct": true,
+      "selected_misconception": "none"
+    },
+    {
+      "question_id": "q2",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "B",
+      "correct_option": "A",
+      "is_correct": false,
+      "selected_misconception": "concept_confusion",
+      "misconception_detail": "خلط بين مفهومين مترابطين في الموضوع"
+    },
+    {
+      "question_id": "q3",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "C",
+      "correct_option": "A",
+      "is_correct": false,
+      "selected_misconception": "concept_confusion",
+      "misconception_detail": "خلط بين تعريفين متشابهين"
+    },
+    {
+      "question_id": "q4",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "D",
+      "correct_option": "B",
+      "is_correct": false,
+      "selected_misconception": "surface_association",
+      "misconception_detail": "اعتماد على كلمة مفتاحية دون فهم السياق"
+    },
+    {
+      "question_id": "q5",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "B",
+      "correct_option": "C",
+      "is_correct": false,
+      "selected_misconception": "concept_confusion",
+      "misconception_detail": "خلط في العلاقة السببية بين المفهومين"
+    },
+    {
+      "question_id": "q6",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "A",
+      "correct_option": "D",
+      "is_correct": false,
+      "selected_misconception": "conceptual_error",
+      "misconception_detail": "تعميم خاطئ لقاعدة خارج شروط تطبيقها"
+    },
+    {
+      "question_id": "q7",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "A",
+      "correct_option": "A",
+      "is_correct": true,
+      "selected_misconception": "none"
+    },
+    {
+      "question_id": "q8",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "B",
+      "correct_option": "B",
+      "is_correct": true,
+      "selected_misconception": "none"
+    },
+    {
+      "question_id": "q9",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "C",
+      "correct_option": "B",
+      "is_correct": false,
+      "selected_misconception": "concept_confusion",
+      "misconception_detail": "خلط بين مفهومين متقاربين"
+    },
+    {
+      "question_id": "q10",
+      "topic_id": "general",
+      "topic_name": "الموضوع العام",
+      "selected_option": "A",
+      "correct_option": "C",
+      "is_correct": false,
+      "selected_misconception": "careless"
+    }
+  ]
+}

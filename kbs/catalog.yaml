@@ -1,0 +1,20 @@
+general:
+  - id: conceptual_error
+    type: conceptual
+    label: "خطأ مفهومي (تعميم أو تعريف خاطئ)"
+    remediation: "راجعي التعريف الدقيق للمفهوم من المصدر الأساسي، وتحققي من شروط تطبيق القاعدة قبل استخدامها."
+
+  - id: surface_association
+    type: procedural
+    label: "ربط سطحي (بكلمات مفتاحية أو فهم جزئي)"
+    remediation: "لا تعتمدي على الكلمات المفتاحية فقط؛ تمرّني على تطبيق المفهوم في سياقات مختلفة وابحثي عن الحالات الاستثنائية."
+
+  - id: concept_confusion
+    type: conceptual
+    label: "خلط بين مفاهيم مترابطة (متشابهة أو سببياً)"
+    remediation: "قارني بين المفاهيم المترابطة مباشرة — اكتبي تعريف كل منها وحدد العلاقة السببية بينها بوضوح."
+
+  - id: careless
+    type: careless
+    label: "زلّة غير مفاهيمية"
+    remediation: null
